@@ -1,0 +1,6 @@
+DEBUG:root:These message should go to the log file
+INFO:root:So should this
+WARNING:root:And this ,too
+INFO:root:cloud provider:Softlayer
+INFO:root:VM creation in softlayer is started
+INFO:root:Dumping the output to the screen
